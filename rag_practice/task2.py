@@ -63,3 +63,8 @@ print("=== n_reuslts = 5 ===")
 ask_rag("What is the fastest land animal ? ", n_results=5)
 
 
+
+print("=== n_reuslts = 8 ===")
+ask_rag("what is the quantum physics ? ", n_results=8)
+
+
